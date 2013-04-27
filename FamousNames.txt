@@ -1,0 +1,90 @@
+Robert De Niro,0
+Celine Dion,1
+Michael Douglas,0
+Catherine Zeta-Jones,1
+Neil Patrick,0
+Jeniffer Hudson,1
+Nicole Kidman,1
+Hugh Jackman,0
+Jeniffer Lawrence,1
+Cynthia Nixon,1
+Alanis Morissete,1
+Jamie Oliver,0
+Guy Ritchie,0
+Britney Spears,1
+Woody Allen,0
+Jenifer Aniston,1
+Adam Sandler,0
+Sarah Jessica Parker,1
+Beyonce Knowles,1
+Frank Sinatra,0
+Miley Cirus,1
+Bob Dylan,0
+Jamie Foxx,0
+John Lennon,0
+Paul Mccartney,0
+Audrey Hepburn,1
+Angelina Jolie,1
+Elton John,0
+Alicia Keys,1
+Tom Cruise,0
+Brad Pitt,0
+Ashton Kutcher,0
+Queen Latifah,1
+Madonna,1
+Penny Lane,1
+Bruno Mars,0
+Freddy Mercury,0
+Lea Michele,1
+Marilyn Monroe,1
+Darren Criss,0
+Chuck Norris,0
+Natalie Portman,1
+Axl Rose,0
+Tina Turner,1
+Stevie Wonder,0
+Ivete Sangalo,1
+Claudia Leitte,1
+Marisa Monte,1
+Solange Almeida,1
+Ines Brasil,1
+Regina Case,1
+Fausto Silva,0
+Reinaldo Gianechinni,0
+Bruno Gagliasso,0
+Katy Perry,1
+Rihanna,1
+Adam Levine,0
+Shakira,1
+Gerard Piquet,0
+Marina Ruy Barbosa,1
+Bruna Marquezine,1
+Carla Perez,1
+Deborah Secco,1
+Bruna Surfistina,1
+Sabrina Sato,1
+Marcio Garcia,0
+Geisy Arruda,1
+Giselle Budchen,1
+Zeze de Camargo,0
+Fabio Junior,0
+Gilberto Gil,0
+Sandy & Junior,1
+Dira Paes,1
+Mariana Ximenes,1
+Thaila Ayala,1
+Justin Bieber,0
+Blake Lively,1
+Emily Thorne,1
+Amanda Clarke,1
+Gloria Pires,1
+Cleo Pires,1
+Selena Gomez,1
+Demi Lovato,1
+Kim Kardashian,1
+Nicki Minaj,1
+Prince Harry,0
+Roberto Carlos,0
+Kate Hudson,1
+Bradley Cooper,0
+Samatha Jones,1

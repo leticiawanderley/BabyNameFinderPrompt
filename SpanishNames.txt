@@ -1,0 +1,82 @@
+Sofia,1
+Camila,1
+Valentina,1
+Valeria,1
+Martina,1
+Ximena,1
+Sara,1
+Samantha,1
+Maria José,1
+Emma,1
+Catalina,1
+Julieta,1
+Mía,1
+Antonella,1
+Emilia,1
+Zoe,1
+María Fernanda,1
+Emily,1
+Antonia,1
+Alejandra,1
+Juana,1
+Ana Sofia,1
+Guadalupe,1
+Agustina,1
+Elena,1
+Ariana,1
+Ivanna,1
+Abril,1
+Florencia,1
+Maite,1
+Alma,1
+Violeta,1
+Salomé,1
+Juliana,1
+Valery,1
+Isabel,1
+Montserrat,1
+Allison,1
+Jazmín,1
+Julia,1
+Lola,1
+Luna,1
+Delfina,1
+Alessandra,1
+Ashley,1
+Olivia,1
+Constanza,1
+Paulina,1
+Rebeca,1
+Carla,1
+María Paula,1
+Micaela,1
+Fabiana,1
+Miranda,1
+Josefina,1
+Laura,1
+Alexa,1
+María Alejandra,1
+Luana,1
+Fátima,1
+Sara Sofía,1
+Isidora,1
+Malena,1
+Santiago,0
+Sebastián,0
+Matías,0
+Mateo,0
+Nicolás,0
+Alejandro,0
+Benjamín,0
+Joaquín,0
+Tomas,0
+Martín,0
+Emiliano,0
+Jerónimo,0
+Emmanuel,0
+Agustín,0
+Juan Pablo,0
+Juan José,0
+Andrés,0
+Ángel,0
+Maximiliano,0
